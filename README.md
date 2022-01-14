@@ -1,6 +1,4 @@
 # PA0
 Practical Assignement 0 for CSE 537
 
-# Author:  Shubhrajyoti Dey
-# Roll number: 19035051
-# Department: Ceramic (Part III)
+This Programme takes a text as an input from the user. Based on user's requirement it encyphers or decyphers the text by following a simple algorithm.
